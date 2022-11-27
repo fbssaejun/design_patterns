@@ -1,3 +1,4 @@
+package adapter_pattern;
 interface Bird {
   // birds implement Bird interface that allows
   // them to fly and make sounds adaptee interface
